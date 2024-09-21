@@ -874,7 +874,7 @@
   {dx: 1,lv: [-4,-7,-9,13,0],v: 15,n: `Paranoia`,ico: `2bb6a69fa0e66cc6`},
   {dx: 1,lv: [-2,-6,-9,12.8,0],v: 14,n: `wheel`,ico: `fe085689bd924d74`},
   {dx: 1,lv: [-3,-6,-9,12.8,0],v: 14,n: `Witches night`,ico: `7582837c14343f0a`},
-  {dx: 1,lv: [-4,-7.6,11.1,13.8,0],v: 13,n: `Little \"Sister\" Bitch`,nn: `Little Sister Bitch`,ico: `02cab333c28ba150`},
+  {dx: 1,lv: [-4,-7.6,11.1,13.8,0],v: 13,n: `Little \`Sister\` Bitch`,nn: `Little Sister Bitch`,ico: `02cab333c28ba150`},
   {dx: 1,lv: [-4,-7.6,11.1,13.9,0],v: 13,n: `Yakumo >>JOINT STRUGGLE (2019 Update)`,nn: `Yakumo >>JOINT STRUGGLE`,ico: `6cdb7df223e91210`},
   {dx: 1,lv: [-3,7.8,12.7,13.7,0],v: 22,n: `New York Back Raise`,ico: `794ac130eb662e74`},
   {dx: 1,lv: [-6,-8.6,13,14.5,0],v: 22,n: `QUATTUORUX`,ico: `5d5496cab15d0422`},
@@ -1089,7 +1089,7 @@
   {dx: 1,lv: [-2,-5,-9.6,13,0],v: 22,n: `炎歌 -ほむらうた-`,ico: `40800dfb586539a2`},
   {dx: 1,lv: [-5,-7.6,-10.6,14.7,0],v: 19,n: `ジングルベル`,ico: `5c0567c39670fbf4`},
   {dx: 1,lv: [-3,-7,11.8,13.5,0],v: 15,n: `Jörqer`,nn: `Jorqer`,ico: `6371b8c7d2c59e7f`},
-  {dx: 1,lv: [-5,-8,12.2,14.5,0],v: 15,n: `Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)`,nn: `Sqlupp(Camellia)`,ico: `fcb1d9c95bb8205d`},
+  {dx: 1,lv: [-5,-8,12.2,14.5,0],v: 15,n: `Sqlupp (Camellia's \`Sqleipd*Hiytex\` Remix)`,nn: `Sqlupp(Camellia)`,ico: `fcb1d9c95bb8205d`},
   {dx: 1,lv: [-6,-8.6,13,14.7,0],v: 14,n: `Valsqotch`,ico: `d394210103ee76c3`},
   {dx: 1,lv: [-2,-7,-10,13.2,0],v: 13,n: `P-qoq`,ico: `83b0d1eecad1ca6c`},
   {dx: 1,lv: [-4,-7.6,11.8,13.9,0],v: 21,n: `Ether Second`,ico: `1572e3183f426fc0`},
@@ -1127,7 +1127,7 @@
   {dx: 1,lv: [-6,-8,12.9,14.4,0],v: 19,n: `VSpook!`,ico: `5d7f7536dd643e71`},
   {dx: 1,lv: [-6,-8.6,13.2,14.7,0],v: 19,n: `康莊大道`,ico: `d7aa8fbe05bb911e`},
   {dx: 1,lv: [-5,-8,12.7,14.5,0],v: 19,n: `Rising on the horizon`,ico: `7294b35c4ce70324`},
-  {dx: 1,lv: [-5,-8.6,12.7,14.3,0],v: 19,n: `\"411Ψ892\"`,nn: `411Ψ892`,ico: `c05db4664af4c45e`},
+  {dx: 1,lv: [-5,-8.6,12.7,14.3,0],v: 19,n: `\`411Ψ892\``,nn: `411Ψ892`,ico: `c05db4664af4c45e`},
   {dx: 1,lv: [-4,-7,-10.6,14,0],v: 19,n: `Tricolor⁂circuS`,ico: `3839ea9459990614`},
   {dx: 1,lv: [-5,-9.6,12.8,14.6,0],v: 19,n: `mystique as iris`,ico: `077872054fe8552d`},
   {dx: 1,lv: [-6,-8,12.6,14.7,0],v: 13,n: `TEmPTaTiON`,ico: `492c768653001e2a`},
@@ -1181,7 +1181,7 @@
   {dx: 1,lv: [-5,-8,12.5,14.7,0],v: 15,n: `Regulus`,ico: `f340a4081d9c66d7`},
   {dx: 1,lv: [-6,-8.6,12,14.4,0],v: 15,n: `ARAIS`,ico: `63687937bbd3b9f4`},
   {dx: 1,lv: [-3,-7.6,11,13.7,0],v: 15,n: `Komplexe`,ico: `6fb57dd3a171eab3`},
-  {dx: 1,lv: [-5,-9,12.7,14.4,0],v: 15,n: `≠彡\"/了→`,nn: `キミツアー`,ico: `7bd3115b580213e3`},
+  {dx: 1,lv: [-5,-9,12.7,14.4,0],v: 15,n: `≠彡\`/了→`,nn: `キミツアー`,ico: `7bd3115b580213e3`},
   {dx: 1,lv: [-4,-7.6,-10.6,13,0],v: 14,n: `Stardust Memories`,ico: `869b30cfdcb643f7`},
   {dx: 1,lv: [-5,-8,11.8,14.4,0],v: 14,n: `UniTas`,ico: `a7c4c1462f81284a`},
   {dx: 1,lv: [-4,-7.6,11,13.9,0],v: 14,n: `GRÄNDIR`,nn: `GRANDIR`,ico: `2a26b38fcd378676`},
@@ -1279,6 +1279,6 @@
   {dx: 1,lv: [-3,-7,-9,12.9,0],v: 14,n: `popcorn`,ico: `ed998c68adada909`},
   {dx: 1,lv: [-5,-8,13.3,13.9,0],v: 13,n: `玩具狂奏曲 -終焉-`,nn: `玩具狂奏曲`,ico: `d8edddab9b63782a`},
   {dx: 1,lv: [-4,-7,11.2,13.4,0],v: 13,n: `BOKUTO`,ico: `8be390a8118639f5`},
-  {dx: 1,lv: [-4,-7.6,11.4,13.9,0],v: 13,n: `立川浄穢捕物帳`,ico: `d8ed15b9651c107c"
+  {dx: 1,lv: [-4,-7.6,11.4,13.9,0],v: 13,n: `立川浄穢捕物帳`,ico: `d8ed15b9651c107c`
   }
 ]
